@@ -8,6 +8,11 @@
         "isPopular": false,
         "features": [
             {
+                "text": "تنزيل مباشر",
+                "included": false,
+                "iconGIF": "support.gif"
+            },
+            {
                 "text": "بدون إعلانات مزعجة",
                 "included": true,
                 "iconGIF": "no-ads.gif"
@@ -25,11 +30,6 @@
             {
                 "text": "تحميل سريع",
                 "included": true,
-                "iconGIF": "support.gif"
-            },
-            {
-                "text": "سجل سحابي",
-                "included": false,
                 "iconGIF": "support.gif"
             }
         ]
@@ -43,6 +43,11 @@
         "isPopular": true,
         "features": [
             {
+                "text": "تنزيل مباشر",
+                "included": true,
+                "iconGIF": "support.gif"
+            },
+            {
                 "text": "بدون إعلانات مزعجة",
                 "included": true,
                 "iconGIF": "no-ads.gif"
@@ -61,12 +66,10 @@
                 "text": "تحميل سريع",
                 "included": true,
                 "iconGIF": "support.gif"
-            },
-            {
-                "text": "سجل سحابي",
-                "included": true,
-                "iconGIF": "support.gif"
             }
         ]
+    },
+    {
+        "urlImgae": "https://raw.githubusercontent.com/downloadman-fast/dataPlan/refs/heads/main/GIF"
     }
 ]
