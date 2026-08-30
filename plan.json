@@ -1,32 +1,72 @@
 [
-  {
-    "id": "normal",
-    "title": "الخطة العادية",
-    "duration": "المسكين",
-    "price": "كل العمر 0$ (مجاناً)",
-    "image": "https://via.placeholder.com/150/1677FF/FFFFFF?text=Standard",
-    "isPopular": false,
-    "features": [
-      { "text": "الوصول إلى جميع الفيديوهات الأساسية", "included": true, "iconGIF": "play.gif" },
-      { "text": "جودة عرض HD عالية", "included": true, "iconGIF": "hd.gif" },
-      { "text": "تحميل الفيديوهات لمشاهدتها بدون إنترنت", "included": false, "iconGIF": "download.gif" },
-      { "text": "دعم فني على مدار الساعة", "included": false, "iconGIF": "support.gif" },
-      { "text": "بدون إعلانات مزعجة", "included": false, "iconGIF": "no-ads.gif" }
-    ]
-  },
-  {
-    "id": "yearly",
-    "title": "الخطة السنوية",
-    "duration": "تجديد سنوي (وفر 40%)",
-    "price": "69.99$ / سنوياً",
-    "image": "https://via.placeholder.com/150/4D9CFF/FFFFFF?text=Premium",
-    "isPopular": true,
-    "features": [
-      { "text": "الوصول إلى جميع الفيديوهات الأساسية", "included": true, "iconGIF": "play.gif" },
-      { "text": "جودة عرض 4K Ultra HD", "included": true, "iconGIF": "4k.gif" },
-      { "text": "تحميل الفيديوهات لمشاهدتها بدون إنترنت", "included": true, "iconGIF": "download.gif" },
-      { "text": "دعم فني على مدار الساعة", "included": true, "iconGIF": "support.gif" },
-      { "text": "بدون إعلانات مزعجة", "included": true, "iconGIF": "no-ads.gif" }
-    ]
-  }
+    {
+        "id": "normal",
+        "title": "الخطة العادية",
+        "duration": "المسكين",
+        "price": "كل العمر 0$ (مجاناً)",
+        "image": "https://via.placeholder.com/150/1677FF/FFFFFF?text=Standard",
+        "isPopular": false,
+        "features": [
+            {
+                "text": "بدون إعلانات مزعجة",
+                "included": true,
+                "iconGIF": "no-ads.gif"
+            },
+            {
+                "text": "جودة عرض HD عالية",
+                "included": true,
+                "iconGIF": "hd.gif"
+            },
+            {
+                "text": "تحميل متعدد",
+                "included": false,
+                "iconGIF": "download.gif"
+            },
+            {
+                "text": "تحميل سريع",
+                "included": true,
+                "iconGIF": "support.gif"
+            },
+            {
+                "text": "سجل سحابي",
+                "included": false,
+                "iconGIF": "support.gif"
+            }
+        ]
+    },
+    {
+        "id": "yearly",
+        "title": "الخطة السنوية",
+        "duration": "تجديد سنوي (وفر 40%)",
+        "price": "69.99$ / سنوياً",
+        "image": "https://via.placeholder.com/150/4D9CFF/FFFFFF?text=Premium",
+        "isPopular": true,
+        "features": [
+            {
+                "text": "بدون إعلانات مزعجة",
+                "included": true,
+                "iconGIF": "no-ads.gif"
+            },
+            {
+                "text": "جودة عرض HD عالية",
+                "included": true,
+                "iconGIF": "hd.gif"
+            },
+            {
+                "text": "تحميل متعدد",
+                "included": true,
+                "iconGIF": "download.gif"
+            },
+            {
+                "text": "تحميل سريع",
+                "included": true,
+                "iconGIF": "support.gif"
+            },
+            {
+                "text": "سجل سحابي",
+                "included": true,
+                "iconGIF": "support.gif"
+            }
+        ]
+    }
 ]
