@@ -1,5 +1,7 @@
-[
+{
     "version": 1,
+    "urlImgae": "https://raw.githubusercontent.com/downloadman-fast/dataPlan/refs/heads/main/GIF",
+    [
     {
         "id": "normal",
         "title": "الخطة العادية",
@@ -70,8 +72,5 @@
             }
         ]
     },
-    {
-        "id":"data",
-        "urlImgae": "https://raw.githubusercontent.com/downloadman-fast/dataPlan/refs/heads/main/GIF"
-    }
+    ]
 ]
