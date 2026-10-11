@@ -2,75 +2,75 @@
     "version": 1,
     "urlImgae": "https://raw.githubusercontent.com/downloadman-fast/dataPlan/refs/heads/main/GIF",
     "plans":[
-    {
-        "id": "normal",
-        "title": "الخطة العادية",
-        "duration": "المسكين",
-        "price": "كل العمر 0$ (مجاناً)",
-        "image": "https://raw.githubusercontent.com/downloadman-fast/dataPlan/refs/heads/main/IMAG/sad.png?v=1",
-        "isPopular": false,
-        "features": [
-            {
-                "text": "تنزيل مباشر",
-                "included": false,
-                "iconGIF": "support.gif"
-            },
-            {
-                "text": "بدون إعلانات مزعجة",
-                "included": true,
-                "iconGIF": "no-ads.gif"
-            },
-            {
-                "text": "جودة عرض HD عالية",
-                "included": true,
-                "iconGIF": "hd.gif"
-            },
-            {
-                "text": "تحميل متعدد",
-                "included": false,
-                "iconGIF": "download.gif"
-            },
-            {
-                "text": "تحميل سريع",
-                "included": true,
-                "iconGIF": "support.gif"
-            }
-        ]
-    },
-    {
-        "id": "yearly",
-        "title": "الخطة السنوية",
-        "duration": "تجديد سنوي (وفر 40%)",
-        "price": "69.99$ / سنوياً",
-        "image": "https://raw.githubusercontent.com/downloadman-fast/dataPlan/refs/heads/main/IMAG/vip.png?v=3",
-        "isPopular": true,
-        "features": [
-            {
-                "text": "تنزيل مباشر",
-                "included": true,
-                "iconGIF": "support.gif"
-            },
-            {
-                "text": "بدون إعلانات مزعجة",
-                "included": true,
-                "iconGIF": "no-ads.gif"
-            },
-            {
-                "text": "جودة عرض HD عالية",
-                "included": true,
-                "iconGIF": "hd.gif"
-            },
-            {
-                "text": "تحميل متعدد",
-                "included": true,
-                "iconGIF": "download.gif"
-            },
-            {
-                "text": "تحميل سريع",
-                "included": true,
-                "iconGIF": "support.gif"
-            }
-        ]
-    },
+        {
+            "id": "normal",
+            "title": "الخطة العادية",
+            "duration": "المسكين",
+            "price": "كل العمر 0$ (مجاناً)",
+            "image": "https://raw.githubusercontent.com/downloadman-fast/dataPlan/refs/heads/main/IMAG/sad.png?v=1",
+            "isPopular": false,
+            "features": [
+                {
+                    "text": "تنزيل مباشر",
+                    "included": false,
+                    "iconGIF": "support.gif"
+                },
+                {
+                    "text": "بدون إعلانات مزعجة",
+                    "included": true,
+                    "iconGIF": "no-ads.gif"
+                },
+                {
+                    "text": "جودة عرض HD عالية",
+                    "included": true,
+                    "iconGIF": "hd.gif"
+                },
+                {
+                    "text": "تحميل متعدد",
+                    "included": false,
+                    "iconGIF": "download.gif"
+                },
+                {
+                    "text": "تحميل سريع",
+                    "included": true,
+                    "iconGIF": "support.gif"
+                }
+            ]
+        },
+        {
+            "id": "yearly",
+            "title": "الخطة السنوية",
+            "duration": "تجديد سنوي (وفر 40%)",
+            "price": "69.99$ / سنوياً",
+            "image": "https://raw.githubusercontent.com/downloadman-fast/dataPlan/refs/heads/main/IMAG/vip.png?v=3",
+            "isPopular": true,
+            "features": [
+                {
+                    "text": "تنزيل مباشر",
+                    "included": true,
+                    "iconGIF": "support.gif"
+                },
+                {
+                    "text": "بدون إعلانات مزعجة",
+                    "included": true,
+                    "iconGIF": "no-ads.gif"
+                },
+                {
+                    "text": "جودة عرض HD عالية",
+                    "included": true,
+                    "iconGIF": "hd.gif"
+                },
+                {
+                    "text": "تحميل متعدد",
+                    "included": true,
+                    "iconGIF": "download.gif"
+                },
+                {
+                    "text": "تحميل سريع",
+                    "included": true,
+                    "iconGIF": "support.gif"
+                }
+            ]
+        }
     ]
 }
